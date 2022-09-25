@@ -3,10 +3,13 @@
 Here is Jingbo's time!
 
 ## About me
-- 📫 Email me: jw6347@trumaan.edu
+I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo Wang**.
+- Undergraduate school: [Truman State University](https://www.truman.edu/)
+- 📫 Email me: jw6347@truman.edu
 - 🔭 College group work for CIS:  [Wechat mini-program for Truman State University](https://github.com/The-Fabulous-Truman-Developer)
+- 👨‍🎓 I'm working on my graduate capstone project: Mac-SSH-Client by Swift language
 - 📚 I’m currently studying in Compilers
-- I'm interesting in Automated Machine Learning (AutoML)![image](https://user-images.githubusercontent.com/95051629/192166930-b4965030-113f-487e-8ce7-b495ddd06eb0.png)
+- ⚙️ I'm interesting in Automated Machine Learning (AutoML), and Cybersecurity!
 
 
 ## Previous Project
