@@ -21,7 +21,7 @@ I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo 
 
     📎[cs315](https://github.com/NullPointer-coder/cs315) | 📎[cs330](https://github.com/TheRealMilesLee/CS-315) | 📎[](https://github.com/TheRealMilesLee/CS-330)
 
-### Warm Tips
+## Warm Tips
 
 I am just a student studying CS, so the code is not perfect and there will be have a lot of mistakes. Different professors have different code style, so the code style may look very different, please ignore this problem by yourself. I hope my study material can help you in your college CS study career. ✌️
 
