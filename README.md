@@ -2,12 +2,13 @@
 
 Here is Jingbo's time!
 
-## About me
-I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo Wang**.
-- Undergraduate school: [Truman State University](https://www.truman.edu/)
+## About Me
+I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo Wang**. I am currently a senior in college and applying to graduate school.I am honored to be here to share my four years of study.
+
 - 📫 Email me: jw6347@truman.edu
-- 🔭 College group work for CIS:  [Wechat mini-program for Truman State University](https://github.com/The-Fabulous-Truman-Developer)
+- 🏫 Undergraduate School: [Truman State University](https://www.truman.edu/)
 - 👨‍🎓 I'm working on my graduate capstone project: Mac-SSH-Client by Swift language
+- 🔭 College group work for CIS:  [Wechat mini-program for Truman State University](https://github.com/The-Fabulous-Truman-Developer)
 - 📚 I’m currently studying in Compilers
 - ⚙️ I'm interesting in Automated Machine Learning (AutoML), and Cybersecurity!
 
@@ -16,36 +17,26 @@ I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo 
 
 - Truman Computer Science Project
 
-    📎[Fall2019-CS180](https://github.com/TheRealMilesLee/Truman-CS180-Course)  |  📎[Spring2020-CS180](https://github.com/TheRealMilesLee/Spring2020-CS180) |📎[Spring2021-CS181](https://github.com/TheRealMilesLee/Spring2021-CS181) | 📎[Fall2021-CS250](https://github.com/TheRealMilesLee/CS-250) | 📎[Fall2021-CS260](https://github.com/TheRealMilesLee/CS-260) |
+    📎[cs170](https://github.com/NullPointer-coder/cs170)  |  📎[cs250](https://github.com/NullPointer-coder/cs250) |📎[cs260](https://github.com/NullPointer-coder/cs260) | 📎[cs291](https://github.com/NullPointer-coder/cs291) | 📎[cs310](https://github.com/NullPointer-coder/cs310) |
 
-    📎[Spring2022-CS310](https://github.com/TheRealMilesLee/CS-310) | 📎[Spring2022-CS315](https://github.com/TheRealMilesLee/CS-315) | 📎[Spring2022-CS330](https://github.com/TheRealMilesLee/CS-330)
-- Wallpaper Collection
+    📎[cs315](https://github.com/NullPointer-coder/cs315) | 📎[cs330](https://github.com/TheRealMilesLee/CS-315) | 📎[](https://github.com/TheRealMilesLee/CS-330)
 
-    🌈 [The Marvelous Wallpaper Collection](https://github.com/TheRealMilesLee/The-Wallpaper-Collection)
-- iOS Study
+### Warm Tips
 
-    📱 [iOS Developting Study](https://github.com/TheRealMilesLee/iOS-Developing-Study)
+I am just a student studying CS, so the code is not perfect and there will be have a lot of mistakes. Different professors have different code style, so the code style may look very different, please ignore this problem by yourself. I hope my study material can help you in your college CS study career. ✌️
 
-## External Link
+## Bonus Link
 
-About Dr.Rahman: <https://www.truman.edu/faculty-staff/kafi/>
+Here are some links about my CS professors and the Truman CS department.
 
-About Dr.Beck: <http://borax.truman.edu/>
+Dr. Beck: <https://www.linkedin.com/in/jon-beck-2147103/>
+Dr. Garvey: <http://vh216602.truman.edu/agarvey/home.php>
+Dr. Matthews: <http://matthews.sites.truman.edu/>
+Dr. Yu: <https://www.truman.edu/faculty-staff/cyyu/>
+Dr. Cao: <https://www.truman.edu/faculty-staff/tingcao/>
+Dr. Rahman: <https://www.truman.edu/faculty-staff/kafi/>
+Truman State University: <https://www.truman.edu/majors-programs/majors-minors/computer-science-major/>
 
-contact me: hl3265@truman.edu or grandtheftauto710@outlook.com
-
-About the Truman State University: <https://www.truman.edu/>
-
-Following Documents: <https://github.com/TheRealMilesLee/Truman-CS180-Documents>
-
-## Disclaimer
-
-I just a student learning the C++, so the code is not the perfect, and it may have a lot errors, and some of them were given by the instructor, so the code style may looks so different, and pleas report that issue.
-
-## Experience
-
-- May 2021, Volunteer in  IEEE PRML/NLP conference 2021
-- May 2022, Internship at university of North America
 
 ## Github Hightlights
 
