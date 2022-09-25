@@ -30,11 +30,17 @@ I am just a student studying CS, so the code is not perfect and there will be ha
 Here are some links about my CS professors and the Truman CS department.
 
 Dr. Beck: <https://www.linkedin.com/in/jon-beck-2147103/>
+
 Dr. Garvey: <http://vh216602.truman.edu/agarvey/home.php>
+
 Dr. Matthews: <http://matthews.sites.truman.edu/>
+
 Dr. Yu: <https://www.truman.edu/faculty-staff/cyyu/>
+
 Dr. Cao: <https://www.truman.edu/faculty-staff/tingcao/>
+
 Dr. Rahman: <https://www.truman.edu/faculty-staff/kafi/>
+
 Truman State University: <https://www.truman.edu/majors-programs/majors-minors/computer-science-major/>
 
 
