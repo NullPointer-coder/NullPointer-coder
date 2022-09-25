@@ -1,11 +1,13 @@
-# Hi there 👋
+# Hi Folks 👋
 
 Here is Jingbo's time!
 
-- 🔭 I’m currently working on [Wechat mini-program for Truman State University](https://github.com/TheRealMilesLee/WechatDeveloper)
-- 🌱 I’m currently learning the Compiler and database
-- 📫 How to reach me: hl3265@trumaan.edu
-- ⚡ Fun fact: nerd as you think
+## About me
+- 📫 Email me: jw6347@trumaan.edu
+- 🔭 College group work for CIS:  [Wechat mini-program for Truman State University](https://github.com/The-Fabulous-Truman-Developer)
+- 📚 I’m currently studying in Compilers
+- I'm interesting in Automated Machine Learning (AutoML)![image](https://user-images.githubusercontent.com/95051629/192166930-b4965030-113f-487e-8ce7-b495ddd06eb0.png)
+
 
 ## Previous Project
 
