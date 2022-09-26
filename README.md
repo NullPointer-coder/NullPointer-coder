@@ -46,6 +46,6 @@ Truman State University: <https://www.truman.edu/majors-programs/majors-minors/c
 
 ## Github Hightlights
 
-[![TheRealMilesLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMilesLee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMilesLee&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![NullPointer-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=NullPointer-codershow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointer-coder&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=WechatDeveloper&show_icons=true&theme=tokyonight)](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=MusicPlayer-macOS&show_icons=true&theme=tokyonight)](https://github.com/TheRealMilesLee/MusicPlayer-macOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NullPointer-coder&repo=WechatDeveloper&show_icons=true&theme=tokyonight)](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NullPointer-coder&repo=MusicPlayer-macOS&show_icons=true&theme=tokyonight)](https://github.com/NullPointer-coder/Mac-SSH-Client)
