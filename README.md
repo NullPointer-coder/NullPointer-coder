@@ -25,7 +25,7 @@ I am just a student studying CS, so the code is not perfect and there will be ha
 
 ## Bonus Link
 
-Here are some links about my CS professors and the Truman CS department.
+Here are some links about my CS professors and the Truman CS Undergraduate department.
 
 Dr. Beck: <https://www.linkedin.com/in/jon-beck-2147103/>
 
