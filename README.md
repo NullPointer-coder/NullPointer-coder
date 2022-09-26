@@ -19,7 +19,7 @@ I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo 
 
     📎[cs170](https://github.com/NullPointer-coder/cs170)  |  📎[cs250](https://github.com/NullPointer-coder/cs250) |📎[cs260](https://github.com/NullPointer-coder/cs260) | 📎[cs291](https://github.com/NullPointer-coder/cs291) | 📎[cs310](https://github.com/NullPointer-coder/cs310) |
 
-    📎[cs315](https://github.com/NullPointer-coder/cs315) | 📎[cs330](https://github.com/TheRealMilesLee/CS-315) | 📎[cs_learning_lecture](https://github.com/NullPointer-coder/cs_learning_lecture)
+    📎[cs315](https://github.com/NullPointer-coder/cs315) | 📎[cs330](https://github.com/NullPointer-coder/cs330) | 📎[cs_learning_lectures](https://github.com/NullPointer-coder/cs_learning_lectures)
 
 ## Warm Tips
 
