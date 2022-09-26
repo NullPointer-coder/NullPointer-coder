@@ -25,7 +25,7 @@ I am just a student studying CS, so the code is not perfect and there will be ha
 
 ## Bonus Link
 
-Here are some links about my CS professors and the Truman CS Undergraduate department.
+Here are some links about my CS professors and the Truman CS department.
 
 Dr. Beck: <https://www.linkedin.com/in/jon-beck-2147103/>
 
@@ -39,8 +39,9 @@ Dr. Cao: <https://www.truman.edu/faculty-staff/tingcao/>
 
 Dr. Rahman: <https://www.truman.edu/faculty-staff/kafi/>
 
-Truman State University: <https://www.truman.edu/majors-programs/majors-minors/computer-science-major/>
+TSU CS Undergraduate Project: <https://www.truman.edu/majors-programs/majors-minors/computer-science-major/>
 
+Tru Women in Computer Science: <http://sand.truman.edu/twics/>
 
 ## Github Hightlights
 
