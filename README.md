@@ -7,7 +7,7 @@ I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo 
 
 - 📫 Email me: jw6347@truman.edu
 - 🏫 Undergraduate School: [Truman State University](https://www.truman.edu/)
-- 👨‍🎓 I'm working on my graduate capstone project: Mac-SSH-Client by Swift language
+- 👨‍🎓 I'm working on my graduate capstone project: [Mac-SSH-Client by Swift language](https://github.com/NullPointer-coder/Mac-SSH-Client)
 - 🔭 College group work for CIS:  [Wechat mini-program for Truman State University](https://github.com/The-Fabulous-Truman-Developer)
 - 📚 I’m currently studying in Compilers
 - ⚙️ I'm interesting in Automated Machine Learning (AutoML), and Cybersecurity!
