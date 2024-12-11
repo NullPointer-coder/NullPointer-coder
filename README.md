@@ -5,8 +5,9 @@ Here is Jingbo's time!
 ## About Me
 I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo Wang**. I am currently a senior in college and applying to graduate school.I am honored to be here to share my four years of study.
 
-- 📫 Email me: jw6347@truman.edu
+- 📫 Email me: jw6347@bu.edu
 - 🏫 Undergraduate School: [Truman State University](https://www.truman.edu/)
+- 🏫 Graduate School: [Boston University](https://www.bu.edu/)
 - 👨‍🎓 I'm working on my graduate capstone project: [Mac-SSH-Client by Swift language](https://github.com/NullPointer-coder/Mac-SSH-Client)
 - 🔭 College group work for CIS:  [Wechat mini-program for Truman State University](https://github.com/The-Fabulous-Truman-Developer)
 - 📚 I’m currently studying in [Compilers(CS420)](https://github.com/NullPointer-coder/cs_learning_lectures/tree/main/Yu_CS420)
