@@ -3,7 +3,7 @@
 Here is Jingbo's time!
 
 ## About Me
-I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo Wang**. I am currently a senior in college and applying to graduate school.I am honored to be here to share my four years of study.
+I am a Computer Science student from **China**🇨🇳, and my name is **Jingbo Wang**. I am currently a graduate student at Boston University.
 
 - 📫 Email me: jw6347@bu.edu
 - 🏫 Undergraduate School: [Truman State University](https://www.truman.edu/)
